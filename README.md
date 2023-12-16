@@ -1,7 +1,7 @@
-Invstr
-An everyday stock market lookout tool. Just for fun&profit.
+#Invstr
+##An everyday stock market lookout tool. Just for fun&profit.
 
-TO-DO
+##TO-DO
 x Wise USD to CLP 
 Wise Currency history fetch
 Plot currency history (candle bars hopefully)
