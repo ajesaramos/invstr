@@ -1,4 +1,4 @@
-#Invstr
+#Invstr (STALLED)
 ##An everyday stock market lookout tool. Just for fun&profit.
 
 ##TO-DO
